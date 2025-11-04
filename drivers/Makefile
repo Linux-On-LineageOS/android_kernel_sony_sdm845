@@ -184,3 +184,4 @@ obj-$(CONFIG_SENSORS_SSC)		+= sensors/
 obj-$(CONFIG_TEE)		+= tee/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
 obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
+obj-$(CONFIG_DRM_LINDROID_EVDI) += lindroid-drm/
